@@ -1,0 +1,15 @@
+Design Skill for this .exe application:
+
+Use this design skill for this error maker.
+
+SKILL:
+
+--Name must be "ErrorMaker"
+
+--Format: .exe
+
+--Style: Classic or slightly modern.
+
+--Error type: Windows Pop-up boxes
+
+--Error types: Info, Error, Success, Warning: None
